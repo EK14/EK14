@@ -1,5 +1,5 @@
 
-## Hi there
+## Hi there 👋
 I'm Elina from Russia, here are some of my projects made for my university courses and just for fun.
 
 Skills: C++ / C / Python
