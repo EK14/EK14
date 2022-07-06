@@ -10,5 +10,5 @@ Skills: C++ / C / Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EK14)](https://github.com/anuraghazra/github-readme-stats)      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EK14&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EK14)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EK14)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
