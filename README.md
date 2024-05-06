@@ -3,7 +3,7 @@
 I'm Elina from Russia, here are some of my projects made for my university classes and just for fun.
 
 ## Skills
-C++ / C / Python
+Swift / C++ / C / Python
 
 ## Contact me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EK14)
